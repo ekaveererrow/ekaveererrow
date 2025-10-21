@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Profile Header -->
+<p align="center">
+</p>
 
-<!--
-**ekaveererrow/ekaveererrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm <span style="color:#e63946;">Ekaveererrow</span> 👋</h1>
+<p align="center">🎓 Student at <b>National University Manila</b> | 💻 Full-Stack Web Developer</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌟 I love building cool and interactive web apps!
+- 🛠️ Tech Stack: **HTML**, **CSS**, **PHP**, **MERN (MongoDB, Express, React, Node.js)**
+- 🏫 Currently learning and experimenting with new frameworks, tools, and design patterns.
+- 🎨 My style: **Fun, visually rich, and user-focused!**
+
+---
+
+## 🏆 Favorite Project: Smart Ride: Schedule, Mapping and Maintenance System
+
+> **Smart RIde** is my recent favorite project this brings digital transformation to a bus company by automating scheduling, mapping, and maintenance processes. It improves operational efficiency, reduces paperwork and downtime, and ensures timely maintenance and route management. This leads to cost savings, better coordination among staff, and more reliable bus operations.!  
+> 🚗✨ Built with the MERN Stack, featuring prescriptive analytics with real-time bus tracking and a vibrant UI.
+
+---
+
+## 🔧 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,react,nodejs,mongodb,js,git" />
+</p>
+
+---
+
+## 💬 Let's Connect!
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 📱 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Let's+build+something+awesome+!;Always+learning+and+creating;Open+to+collaboration+🌏" />
+</p>

@@ -36,9 +36,3 @@
 - 📧 Email: ekaveer.em@gmail.com(mailto:ekaveer.em@gmail.com)
 - 🌐 Portfolio: "Still Building"
 - 📱 Facebook: https://www.facebook.com/erroooow1
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Let's+build+something+awesome+!;Always+learning+and+creating;Open+to+collaboration+🌏" />
-</p>

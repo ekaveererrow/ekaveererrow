@@ -33,9 +33,9 @@
 
 ## 💬 Let's Connect!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
-- 📱 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: ekaveer.em@gmail.com(mailto:ekaveer.em@gmail.com)
+- 🌐 Portfolio: "Still Building"
+- 📱 Facebook: https://www.facebook.com/erroooow1
 
 ---
 

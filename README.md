@@ -26,7 +26,7 @@
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,react,nodejs,mongodb,js,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,react,nodejs,mongodb,js,git,mysql" />
 </p>
 
 ---

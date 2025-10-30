@@ -18,7 +18,7 @@
 
 ## 🏆 Favorite Project: Smart Ride: Schedule, Mapping and Maintenance System
 
-> **Smart RIde** is my recent favorite project this brings digital transformation to a bus company by automating scheduling, mapping, and maintenance processes. It improves operational efficiency, reduces paperwork and downtime, and ensures timely maintenance and route management. This leads to cost savings, better coordination among staff, and more reliable bus operations.!  
+> **Smart Ride** is my recent favorite project this brings digital transformation to a bus company by automating scheduling, mapping, and maintenance processes. It improves operational efficiency, reduces paperwork and downtime, and ensures timely maintenance and route management. This leads to cost savings, better coordination among staff, and more reliable bus operations.!  
 > 🚗✨ Built with the MERN Stack, featuring prescriptive analytics with real-time bus tracking and a vibrant UI.
 
 ---

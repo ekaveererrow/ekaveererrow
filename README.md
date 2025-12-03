@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#e63946;">Ekaveererrow</span> 👋</h1>
-<p align="center">🎓 Student at <b>National University Manila</> Software Engineer Intern</p>
+<p align="center">🎓 Student at <b>National University Manila</> | Software Engineer Intern</p>
 
 ---
 
